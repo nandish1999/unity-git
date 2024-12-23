@@ -1,0 +1,10 @@
+[Libraries]
+/Library/
+[TEMP Files]
+/Temp/
+[Build Results]
+/Build/
+[Cache Files]
+/.obj/
+/*.userprefs
+
