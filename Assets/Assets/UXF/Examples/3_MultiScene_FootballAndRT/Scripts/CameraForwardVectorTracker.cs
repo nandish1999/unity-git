@@ -1,6 +1,6 @@
 
-//--------------------------------(Whenever hit play button timer again starts from 0 second (and old values disapper)) ---------------------
-//(doesn't Append the time but resets it)
+// --------------------------------(doesn't Append the time but resets it) ---------------------
+// Whenever hit play button timer again starts from 0 second (and old values disapper
 
 using UnityEngine;
 using System.IO;
@@ -44,8 +44,7 @@ public class CameraForwardVectorTracker : MonoBehaviour
 
 
 
-//---------------------------(Appending the time instead of resetting it)--------------------------
-
+// ---------------------------(Appending the time instead of resetting it)--------------------------
 
 // using UnityEngine;
 // using System.IO;
